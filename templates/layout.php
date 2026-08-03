@@ -7,7 +7,7 @@
     <meta name="description" content="Busca y compara vuelos al mejor precio con OSCIDEC.">
     <link rel="stylesheet" href="/assets/css/styles.css">
 
-    <!-- Travelpayouts Drive (monetización oficial · marker 757594) -->
+    <!-- Travelpayouts Drive (monetizacion oficial - marker 757594) -->
     <script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
     (function () {
         var script = document.createElement("script");
@@ -19,7 +19,7 @@
     </script>
 </head>
 <body>
-    <!-- Fondo inmersivo: vista desde la ventana del avión con nubes en parallax -->
+    <!-- Fondo inmersivo: vista desde la ventana del avion con nubes en parallax -->
     <div class="sky" aria-hidden="true">
         <div class="sky-gradient"></div>
         <div class="clouds clouds--back"></div>
@@ -27,13 +27,12 @@
         <div class="clouds clouds--front"></div>
     </div>
 
-    <!-- Marco de la ventanilla del avión (decorativo, encima del cielo) -->
     <div class="window-frame" aria-hidden="true">
         <div class="window-glare"></div>
     </div>
 
     <header class="site-header">
-        <a class="brand" href="/">OSCIDEC<span>·viajes</span></a>
+        <a class="brand" href="/">OSCIDEC<span>&middot;viajes</span></a>
         <nav class="top-nav">
             <a href="/">Buscar</a>
             <a href="https://oscidec.com" target="_blank" rel="noopener">OSCIDEC</a>
